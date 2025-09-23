@@ -1,0 +1,23 @@
+git> git init esti_gyakorlas_megoldas
+
+cd esti_gyakorlas_megoldas
+
+git status
+
+git add .
+
+git status
+
+git commit -m "esti_gyakorlas_megoldas feltöltése"
+
+git remote add esti_gyakorlas_megoldas https://github.com/bakopeter/esti_gyakorlas_megoldas.git
+
+(git branch --set-upstream-to=komplex_feladat/<branch> master)
+
+ git push --set-upstream newgit master
+
+git status
+
+https://github.com/bakopeter/szamologep.git
+
+git push szamologep HEAD:szamologep.git
