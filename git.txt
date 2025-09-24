@@ -1,3 +1,11 @@
+cd ~/.ssh
+
+ls
+
+ssh-keygen -o
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyhBPvebDKWvsnxyFGVqcBFMCMGSsn63s+RQHw1lSrY Info_tanar@DESKTOP-NGSS4LT
+-----------------------
 git> git init esti_gyakorlas_megoldas
 
 cd esti_gyakorlas_megoldas
